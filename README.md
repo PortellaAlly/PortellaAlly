@@ -1,7 +1,7 @@
-## Oi, sou o Allyson.
+## Hello, I'm Ally! \o/
 
-👨‍🎓 Estudante de TI. <br>
-👁 Você pode entrar em contato pelo meu [instagram](https://www.instagram.com/portella.um/) ou pelo meu email: portellaallyson@gmail.com
+👨‍🎓 IT student. <br>
+👁 You can reach me by my instagram [instagram](https://www.instagram.com/portella.um/) or my email: portellaallyson@gmail.com
 
 
 
