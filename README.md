@@ -1,6 +1,6 @@
 ## Hello, I'm Ally! \o/
 
-👨‍🎓 IT student. <br>
+👨‍🎓 IT student at Instituto federal, Carmo de Minas. <br>
 👁 You can reach me by my instagram [instagram](https://www.instagram.com/portella.um/) or my email: portellaallyson@gmail.com
 
 
