@@ -1,4 +1,4 @@
-## Hello, I'm Ally! 👋
+## Hello, I'm Ally! \o/
 
 👨‍🎓 IT student at Instituto Federal, Carmo de Minas.  
 👁 You can reach me through [Instagram](https://www.instagram.com/portella.um/) or by email: **portellaallyson@gmail.com**  
