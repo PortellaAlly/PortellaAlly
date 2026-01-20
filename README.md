@@ -1,4 +1,4 @@
-## Hello, I'm Ally 👋
+## Hello, I'm Ally! \o/
 
 I'm a junior software developer with a technical background in Information Technology,
 focused on frontend and backend development. I have hands-on experience building
