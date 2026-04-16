@@ -1,4 +1,12 @@
-Hello, I'm Ally \o/<br><br>I'm a developer with 1 year of real-world experience, focused on building and learning.<br><br>- 💻 Technology enthusiast<br>- 🚀 Always looking to improve and create new projects  <br><br>📫 Contact: portellaallyson@gmail.com
+Hello, I'm Ally \o/<br><br>
+
+I'm a developer with 1 year of real-world experience, focused on building web applications and continuously improving my skills.<br><br>
+
+- 💻 Focused on Web Development
+- 🚀 Always looking to improve and create new projects  
+- 🎯 Looking for opportunities to grow as a developer  <br><br>
+
+📫 Contact: portellaallyson@gmail.com
 
 
 # 💻 Tech Stack:
