@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello, I'm Ally \o/<br><br>I'm a developer with 1 year of real-world experience, focused on building and learning.<br><br>- 💻 Technology enthusiast<br>- 🚀 Always looking to improve and create new projects  <br><br>📫 Contact: portellaallyson@gmail.com
 
 
