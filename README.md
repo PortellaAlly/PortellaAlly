@@ -1,10 +1,10 @@
 Hello, I'm Ally \o/
 
-I'm a developer with 1 year of real-world experience, focused on building web applications and continuously improving my skills.<br><br>
+I'm a developer with 1 year of real-world experience, focused on building web applications and continuously improving my skills.
 
 - 💻 Focused on Web Development
 - 🚀 Always looking to improve and create new projects  
-- 🎯 Looking for opportunities to grow as a developer  <br><br>
+- 🎯 Looking for opportunities to grow as a developer  
 
 📫 Contact: portellaallyson@gmail.com
 
