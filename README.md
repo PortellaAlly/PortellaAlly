@@ -30,6 +30,6 @@ I'm a developer with 1 year of real-world experience, focused on building web ap
 ## GitHub Stats:
 
 <div align="center">
-  <img height="200em" src="https://github-readme-sooty.vercel.app/api?username=PortellaAlly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Portellaally&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="240em" src="https://github-readme-sooty.vercel.app/api?username=PortellaAlly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true&include_all_commits=true"/>
+  <img height="240em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=Portellaally&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=10&border_radius=0&include_private=true"/>
 </div>
