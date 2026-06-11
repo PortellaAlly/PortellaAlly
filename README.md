@@ -11,18 +11,19 @@ I'm a developer with 1 year of real-world experience, focused on building web ap
 ## Tech Stack:
 
 <div align="left">
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) 
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+  <img src="https://img.shields.io/badge/java-000000.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-000000.svg?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-000000.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/css3-000000.svg?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-000000.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-000000.svg?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-000000.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-000000.svg?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-000000.svg?style=flat-square&logo=git&logoColor=white"/>
   
 </div>
 
