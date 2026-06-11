@@ -31,10 +31,8 @@ I'm a developer with 1 year of real-world experience, focused on building web ap
 # 📊 GitHub Stats:
 
 <div align="center">
-
-<img height="240em" src="https://github-readme-stats.shion.dev/api?username=PortellaAlly&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /img>
-<img height="240em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PortellaAlly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact /img>
-
+  <img height="240em" src="https://github-readme-stats.shion.dev/api?username=PortellaAlly&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/img>
+  <img height="240em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PortellaAlly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /img>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
