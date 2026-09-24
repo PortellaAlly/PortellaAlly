@@ -1,4 +1,4 @@
-Hello, I'm Ally \o/
+## Hello, I'm Ally \o/
 
 I'm a developer with 1 year of real-world experience, focused on building web applications and continuously improving my skills.
 
